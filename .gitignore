@@ -12,5 +12,8 @@ yarn-error.log
 
 
 # PHPStorm files
-
 /.idea/
+
+# ide-helper files
+.phpstorm.meta.php
+_ide_helper.php
